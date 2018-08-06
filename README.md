@@ -1,2 +1,2 @@
 # vueWelfareCat
-frond end of publicWelfareCat
+front end of publicWelfareCat
