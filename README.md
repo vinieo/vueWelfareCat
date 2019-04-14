@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+![img](https://github.com/vinieo/vueWelfareCat/blob/master/GIF.gif)
+
 ## Build Setup
 
 ``` bash
